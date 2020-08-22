@@ -2,7 +2,7 @@
 #A pangram string is one that contains all the letters of the English alphabet 
 
 def checkpangram(string):
-    alphabet = ['a','b','c','d','e', 'f', 'g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'] #storing the alphabet in an array
+    alphabet = ['a','b','c','d','e', 'f', 'g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'] #storing the alphabet in a list 
     for char in alphabet:
         if char not in string.lower(): #taking each individual letter and checking if the entered string contains it
             return False
