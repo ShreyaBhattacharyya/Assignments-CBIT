@@ -1,3 +1,4 @@
+#Algorithm: 
 # Step 1: START GRADE-CALCULATION
 # Step 2: INPUT ARRAY ‘SUBJECTS’ = [ S1, S2, S3, S4, S5]
 # Step 3: CALCULATE SUM OF ARRAY ELEMENTS AS ‘TOTAL’ = SUM(SUBJECTS)
@@ -18,7 +19,7 @@
 # Step 6: END GRADE-CALCULATION
 
 
-
+#Code for Above Algorithm: 
 Subjects= []
 for i in range(0,5):
     n = eval(input("Enter marks in Subject:"))
