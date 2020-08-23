@@ -1,4 +1,4 @@
-#Algorithm: 
+#Algorithm to print Student Grade: 
 # Step 1: START GRADE-CALCULATION
 # Step 2: INPUT LIST ‘SUBJECTS’ = [ S1, S2, S3, S4, S5] WITH MARKS IN 5 SUBJECTS 
 # Step 3: CALCULATE SUM OF LIST ELEMENTS AS ‘TOTAL’ = SUM(SUBJECTS)
